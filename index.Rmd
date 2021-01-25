@@ -1,19 +1,19 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Christophe Dervieux"
+image: "profilpic.jfif"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/cderv/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/chrisderv"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/cderv"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:christophe.dervieux@gmail.com"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a Software Engineer at RStudio working on the R Markdown ecosystem. 
+
+Previously, I was an R-Admin & Developer Advocate in a French Company. R in Production remains a topic I am very found of and like to discuss! 
